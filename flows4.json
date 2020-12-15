@@ -1,0 +1,1 @@
+[{"id":"693e4d31.714cb4","type":"http in","z":"30e49e98.99af02","name":"Clear GPIO5","url":"/clear","method":"get","upload":false,"swaggerDoc":"","x":140,"y":380,"wires":[["e57baa5c.a54b88","13b4eab4.58ab15"]]}]
